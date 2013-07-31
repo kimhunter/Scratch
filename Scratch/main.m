@@ -10,11 +10,13 @@
 
 int main(int argc, const char * argv[])
 {
-
     @autoreleasepool {
+        NSArray  *a1 = nil, *a2 = nil, *a3 = nil;
+        NSMutableArray *ma1 = nil;
+        NSString *s1 = nil, *s2 = nil, *s3 = nil;
         
-        // insert code here...
-        NSLog(@"Hello, World!");
+        
+        
         
     }
     return 0;
