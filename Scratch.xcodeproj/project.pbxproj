@@ -12,6 +12,7 @@
 		3B11B21817A7F65B00746DFF /* Scratch.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 3B11B21717A7F65B00746DFF /* Scratch.1 */; };
 		3B49461717A92E7F002478C7 /* Blue.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B49461617A92E7F002478C7 /* Blue.m */; };
 		3B49461A17A92E8E002478C7 /* Orange.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B49461917A92E8E002478C7 /* Orange.m */; };
+		3BA63A2F17C4CF8C0014AA4B /* Red.mm in Sources */ = {isa = PBXBuildFile; fileRef = 3BA63A2E17C4CF8C0014AA4B /* Red.mm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,6 +38,8 @@
 		3B49461617A92E7F002478C7 /* Blue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Blue.m; sourceTree = "<group>"; };
 		3B49461817A92E8E002478C7 /* Orange.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Orange.h; sourceTree = "<group>"; };
 		3B49461917A92E8E002478C7 /* Orange.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Orange.m; sourceTree = "<group>"; };
+		3BA63A2D17C4CF8C0014AA4B /* Red.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Red.h; sourceTree = "<group>"; };
+		3BA63A2E17C4CF8C0014AA4B /* Red.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; path = Red.mm; sourceTree = "<group>"; };
 		3BE6205817A9297700AC0DB2 /* scratch.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = scratch.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -104,6 +107,8 @@
 				3B49461617A92E7F002478C7 /* Blue.m */,
 				3B49461817A92E8E002478C7 /* Orange.h */,
 				3B49461917A92E8E002478C7 /* Orange.m */,
+				3BA63A2D17C4CF8C0014AA4B /* Red.h */,
+				3BA63A2E17C4CF8C0014AA4B /* Red.mm */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -162,6 +167,7 @@
 				3B11B21417A7F65B00746DFF /* main.m in Sources */,
 				3B49461717A92E7F002478C7 /* Blue.m in Sources */,
 				3B49461A17A92E8E002478C7 /* Orange.m in Sources */,
+				3BA63A2F17C4CF8C0014AA4B /* Red.mm in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
