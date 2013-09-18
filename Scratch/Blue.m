@@ -8,6 +8,9 @@
 
 #import "Blue.h"
 
+@interface Blue ()
+@end
+
 @implementation Blue
 
 @end

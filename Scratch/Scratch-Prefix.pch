@@ -8,4 +8,5 @@
     #import "scratch.h"
     #import "Blue.h"
     #import "Orange.h"
+    #import "Red.h"
 #endif

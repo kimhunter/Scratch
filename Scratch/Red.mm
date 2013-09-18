@@ -7,7 +7,18 @@
 //
 
 #import "Red.h"
+#import <iostream>
+#import <string>
 
-@implementation Red
+using namespace std;
+
+@implementation Red {    
+}
+
+- (void)dealloc
+{
+}
+
+
 
 @end
